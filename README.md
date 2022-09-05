@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Flazblue
+- 👋 Hi, I’m @Flazblue. An NTHU undergraduate student in EECS
 - 👀 I’m interested in artificial intelligence on auto-driving.
 - 🌱 I’m currently learning data structure & linear algebra & circuits & ordinary diifferential equation.
 - 💞️ I’m looking to collaborate on getting an internship at Microsoft or Google.
